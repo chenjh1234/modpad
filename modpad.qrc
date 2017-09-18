@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/openfile.png</file>
+    <file>images/savefile.png</file>
+    <file>images/savefileas.png</file>
+    <file>images/createcpp.png</file>
+    <file>images/moveup.png</file>
+    <file>images/movedown.png</file>
+    <file>images/remove.png</file>
+    <file>images/model.png</file>
+    <file>images/parameter.png</file>
+    <file>images/value.png</file>
+    <file>images/about.png</file>
+    <file>images/help.png</file>
+</qresource>
+</RCC>
